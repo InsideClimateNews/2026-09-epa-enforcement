@@ -473,7 +473,7 @@ case_summaries %>%
 # # Groups:   service_line [2]
 # service_line     n
 # <lgl>        <int>
-#   1 FALSE          257
+# 1 FALSE          257
 # 2 TRUE          1287
 
 lsli <- case_summaries %>%
@@ -488,4 +488,5 @@ admin_bush_onward %>%
 # <dbl>
 # 1         557.
 
-# Conclusion; More than 1,200 of these orders relate to failure to compile lead service line inventories. The median cost was just $557
+# Conclusion; More than 1,200 of these orders relate to failure to compile lead service line inventories, 
+# representing more than a third of all administrative orders from the current administration. The median cost was just $557

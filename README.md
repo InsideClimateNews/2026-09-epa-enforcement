@@ -4,7 +4,7 @@
 
 ### **Methodology/code/data**
 
-The repository contains the script `echo.R,` which analyzes [data](https://echo.epa.gov/tools/data-downloads#ECM) from the EPA's Enforcement and Compliance Monitoring Online (ECHO) system, downloaded on Aug. 14, 2026.
+The repository contains the script `echo.R`, which analyzes [data](https://echo.epa.gov/tools/data-downloads#ECM) from the EPA's Enforcement and Compliance Monitoring Online (ECHO) system, downloaded on Aug. 14, 2026.
 
 The script also uses the [ECHO Case Enforcement API](https://echo.epa.gov/tools/web-services/enforcement-cases#/Case%20Enforcement) to further scrutinize administrative compliance orders, identifying those that involved the failure of public drinking water systems to adhere to the requirement of compiling an inventory of water service lines made from lead.
 

@@ -1,4 +1,4 @@
-# **Under Trump, the EPA Has Become a Toothless Friend of Polluting Industries, Analysis Shows**
+# **The Trump EPA Is a Toothless Friend of Polluting Industries, Analysis Shows**
 
 [R](https://www.r-project.org/) code to reproduce the analysis underlying [this Sep. 1, 2026, Inside Climate News article](https://insideclimatenews.org/news/) exploring the record of enforcement actions by the U.S. Environmental Protection Agency, focusing in particular on changes under the second administration of President Donald Trump.
 

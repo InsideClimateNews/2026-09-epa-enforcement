@@ -6,7 +6,8 @@ library(tidyverse)
 library(janitor)
 library(blsAPI)
 library(jsonlite)
-library(httr2)  
+library(httr2)
+library(scales)
 
 # don't use scientific notation for numbers
 options(scipen = 999)
